@@ -2,10 +2,12 @@
 <!-- slug: jam-digital-cpp -->
 <!-- title: Digital Clock C++ -->
 <!-- description: Simple digital clock application built with C++ that displays current time in HH:MM:SS format -->
-<!-- image: https://github.com/user-attachments/assets/placeholder-jam-digital -->
+<!-- image: https://github.com/user-attachments/assets/803c20f1-91f2-4f2e-8b03-f898199beb0a -->
 <!-- tags: c++, desktop-app, clock, learning-project -->
 
 # Digital Clock C++
+
+<img width="1536" height="1024" alt="jam-digital-cpp" src="https://github.com/user-attachments/assets/803c20f1-91f2-4f2e-8b03-f898199beb0a" />
 
 A simple yet functional digital clock application built using C++ during my high school learning journey. This console-based application displays the current time in HH:MM:SS format with real-time updates.
 
@@ -185,3 +187,4 @@ I built this during my high school years while learning C++. It's a simple proje
 ---
 
 **Built while learning C++ in High School** 🎓⏰
+
